@@ -15,7 +15,7 @@ Script
 - get user input
 - create objects from the user input
 - push objects into an array
-- display the array 
+- display the array on DOM
 
 -------------
 Stretch goals
